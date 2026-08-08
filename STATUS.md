@@ -17,11 +17,11 @@
 
 | Komponente | Status | Parse | Tests |
 |-----------|--------|-------|-------|
-| `src/creature_spawner.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/dna_system.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/creature_ai.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/ecosystem.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/shivamon_link.atc` | 📋 GEPLANT | ❌ | ❌ |
+| src/creature_spawner.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/dna_system.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/creature_ai.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/ecosystem.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/shivamon_link.atc | 📋 GEPLANT | ❌ | ❌ |
 
 ---
-*Auto-generiert 2026-08-08 · Aurora (MasterBrain · Base44)*
+*Auto-generiert 2026-08-08 · Aurora*

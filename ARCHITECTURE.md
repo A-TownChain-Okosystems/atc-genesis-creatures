@@ -14,11 +14,11 @@ atc-genesis-creatures/
 ├── CHANGELOG.md
 ├── FILE_REGISTER.md
 └── src/
-    ├── creature_spawner.atc            Creature spawner — procedural spawning, rarity
-    ├── dna_system.atc                  DNA system — genetic code, mutation, inheritance
-    ├── creature_ai.atc                 Creature AI — behavior tree, states, goals
-    ├── ecosystem.atc                   Ecosystem — population dynamics, food chain
-    ├── shivamon_link.atc               Shivamon link — chain integration, NFT minting
+    ├── creature_spawner.atc    0 lines    Procedural spawning
+    ├── dna_system.atc    0 lines    Genetic code
+    ├── creature_ai.atc    0 lines    Behavior tree
+    ├── ecosystem.atc    0 lines    Population dynamics
+    └── shivamon_link.atc    0 lines    Chain integration
 ```
 
 ## Statistik
@@ -26,7 +26,7 @@ atc-genesis-creatures/
 | Metrik | Wert |
 |--------|------|
 | .atc Dateien | 5 |
-| Layer | L8 — Game Engine |
+| .atc Zeilen | 0 |
 | ATC-Standard | ATC-90 |
 | Sprint | 3.2 |
 | Status | 📋 GEPLANT |
